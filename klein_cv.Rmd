@@ -40,7 +40,7 @@ urlcolor: blue
 **BS in Psychology, BS in Finance** \hfill 2011  
 *Pennsylvania State University, University Park, PA*
 
-# Experience 
+# Professional Experience 
 
 **Position name** \hfill Jan 2018 - current  
 *Organization, Place-name, State*
@@ -65,9 +65,9 @@ Ebersole, C. R., Atherton, O. E., Belanger, A. L., Skulborstad, H. M., Allen, J.
 
 Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. A.**, … Nosek, B. A. (2016). Reducing implicit racial preferences: II. Intervention effectiveness across time. *Journal of Experimental Psychology: General, 145*, 1001-1016.
 
-**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Investigating variation in replicability: A "many labs" replication project.  *Social Psychology, 45*(3): 142-152. doi: [10.1027/1864-9335/a000178](10.1027/1864-9335/a000178)
+**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Investigating variation in replicability: A "many labs" replication project.  *Social Psychology, 45*(3): 142-152. doi: [10.1027/1864-9335/a000178](10.1027/1864-9335/a000178)  
 
-Research covered by Nature magazine, Science magazine, National Geographic magazine, and others. Named one of the top stories of 2013 by the Society of Personality and Social Psychology.
+- Research covered by *Nature magazine, Science magazine, National Geographic magazine*, and others. Named one of the top stories of 2013 by the *Society of Personality and Social Psychology*.
 
 **Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Data from investigating variation in replicability: A “many labs” replication project. *Journal of Open Psychology Data, 2*(1): e4. doi: [http://dx.doi.org/10.5334/jopd.ad](http://dx.doi.org/10.5334/jopd.ad)
 
