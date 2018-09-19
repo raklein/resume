@@ -1,0 +1,97 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.7in
+
+title: "CV"
+author: Richard Klein
+
+fontawesome: yes
+email: raklein22@gmail.com
+github: raklein
+twitter: "@raklein3"
+phone: "Available on Request"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Relevant skills
+
+- MS Word, Excel, Access
+- Adobe Photoshop, InkScape, GIMP
+
+# Experience 
+
+**Position name** \hfill Jan 2018 - current  
+*Organization, Place-name, State*
+
+- Something that you accomplished in your position; demonstrate leadership, teamwork, creativity, etc. Maybe show some numbers. Give some detail!
+- Something else that you did. Don't be shy.
+
+**Another position** \hfill Jan - Dec 2017  
+*Organization, Place-name, State*
+
+- Something that you did
+- Something else that you did
+
+# Education
+
+**M.Sc. Your Degree** \hfill 2015 - 2016  
+*Department, University*
+
+- Thesis: Something that I studied
+- Additional accomplishments
+
+**B.Sc. Your Degree** \hfill 2011 - 2015  
+*Department, University*
+
+- GPA: 
+
+# Peer Reviewed Publications
+
+Bastart, J., **Klein, R. A.**, IJzerman, H., (2018). Replication Initiatives in Psychology. *Oxford Bibliographies in Psychology*. doi: [10.1093/OBO/9780199828340-0212](10.1093/OBO/9780199828340-0212)
+
+Milfont, T. L., **Klein, R. A.** (2018). Replication and reproducibility in cross-cultural psychology. *Journal of Cross-Cultural Psychology, 49*(5), 735-750. doi: [10.1177/0022022117744892](10.1177/0022022117744892)
+
+Ebersole, C. R., Atherton, O. E., Belanger, A. L., Skulborstad, H. M., Allen, J. M., … **Klein, R. A.**, … Nosek, B. A. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. *Journal of Experimental Social Psychology*.
+
+Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. A.**, … Nosek, B. A. (2016). Reducing implicit racial preferences: II. Intervention effectiveness across time. *Journal of Experimental Psychology: General, 145*, 1001-1016.
+
+**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Investigating variation in replicability: A "many labs" replication project.  *Social Psychology, 45*(3): 142-152. doi: [10.1027/1864-9335/a000178](10.1027/1864-9335/a000178)
+
+Research covered by Nature magazine, Science magazine, National Geographic magazine, and others. Named one of the top stories of 2013 by the Society of Personality and Social Psychology.
+
+**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Data from investigating variation in replicability: A “many labs” replication project. *Journal of Open Psychology Data, 2*(1): e4. doi: [http://dx.doi.org/10.5334/jopd.ad](http://dx.doi.org/10.5334/jopd.ad)
+
+**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Theory building through replication: Response to commentaries on the “many labs” replication project. *Social Psychology, 45*(4): 307-310.
+
+
+# Awards and Honors
+
+- Peer-review for:
+- Frontiers in Psychology, Review Editor \hfill 2017 - 2018
+-	Social Psychological and Personality Science
+-	Perspectives on Psychological Science
+-	Journal of Social Psychology
+-	PLOS ONE
+-	American Journal of Political Science
+-	Gerber Social Psychology Outstanding Research Award ($1,000) \hfill 2016
+-	Incubator Grant, Center for Open Science ($13,500) \hfill 2015
+-	Travel Award, UF Department of Psychology ($500) \hfill 2015
+-	Travel Award, UF College of Liberal Arts and Sciences ($300) \hfill 2015
+-	Travel Award, Society for Personality and Social Psychology ($500) \hfill 2015
+-	Advisory Board Member, CREP Project \hfill 2014 – 2016
+-	Graduate School Fellowship, University of Florida ($80,000) \hfill 2012 – 2016
+-	Dean’s List, Penn State \hfill 2007 – 2011
+
+
+- Award of Excellence \hfill 2017
+- Travel Grant \hfill 2017
