@@ -12,7 +12,7 @@ fontawesome: yes
 email: raklein22@gmail.com
 github: raklein
 twitter: "@raklein3"
-phone: "Available on Request"
+phone: "phone on request"
 updated: no
 
 keywords: R Markdown, academic CV, template
@@ -23,10 +23,22 @@ fontsize: 11pt
 urlcolor: blue
 ---
 
-# Relevant skills
+# Positions
+**Postdoctoral Researcher** \hfill 2018 - Present  
+*Université Grenoble Alpes, Grenoble, France*  
 
-- MS Word, Excel, Access
-- Adobe Photoshop, InkScape, GIMP
+- Social psychology research with an emphasis on methods and data science.
+
+# Education
+
+**Ph.D. in Psychology** \hfill 2017  
+*University of Florida, Gainesville, FL*
+
+**M.S. in Psychology** \hfill 2014  
+*University of Florida, Gainesville, FL*
+
+**BS in Psychology, BS in Finance** \hfill 2011  
+*Pennsylvania State University, University Park, PA*
 
 # Experience 
 
@@ -42,20 +54,8 @@ urlcolor: blue
 - Something that you did
 - Something else that you did
 
-# Education
-
-**M.Sc. Your Degree** \hfill 2015 - 2016  
-*Department, University*
-
-- Thesis: Something that I studied
-- Additional accomplishments
-
-**B.Sc. Your Degree** \hfill 2011 - 2015  
-*Department, University*
-
-- GPA: 
-
 # Peer Reviewed Publications
+(\* indicates undergraduate author)
 
 Bastart, J., **Klein, R. A.**, IJzerman, H., (2018). Replication Initiatives in Psychology. *Oxford Bibliographies in Psychology*. doi: [10.1093/OBO/9780199828340-0212](10.1093/OBO/9780199828340-0212)
 
@@ -73,16 +73,69 @@ Research covered by Nature magazine, Science magazine, National Geographic magaz
 
 **Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Theory building through replication: Response to commentaries on the “many labs” replication project. *Social Psychology, 45*(4): 307-310.
 
+# Manuscripts in Progress
+
+**Klein, R. A.**, Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., Alper, S., … Nosek, B. A. (under review). Many labs 2: Investigating variation in replicability across sample and setting. Pre-registered replication report under review at *Advances in Methods and Practices in Psychological Science*.
+
+# Organized Symposia and Workshops
+
+Add Bordeaux
+
+**Klein, R. A.** (2014). Reproducibility in Psychology: Understanding and Improving Your Odds. Symposium organized for the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA. Speakers: Gregory Webster, Richard Klein, Chris Martin.
+
+# Talks
+
+Add ESCON
+Add Bordeaux
+
+**Klein, R. A.** (2016). Data quality and participant attention in in-lab and online samples. Talk presented at the Colloquium Speaker Series for Social Psychology, Gainesville, FL.
+
+**Klein, R. A.** (2015). Replication in psychology: How sensitive are our findings? Invited talk presented at the Victoria University of Wellington Psychology Colloquium Series, Wellington, New Zealand.
+
+**Klein, R. A.** (2015). Networking: Online and in-person. Invited talk presented at the Psychology Graduate Student Organization Professional Development Seminar, Gainesville, FL.
+
+Grahe, J., Sharon, T., Hall, S. S., **Klein, R. A.** (2015). Emerging Adulthood Measured at Multiple Institutions: A New Model to Study Emerging Adulthood. Panelist on a discussion panel presented at the Society for the Study of Emerging Adulthood 7th Biennial Conference, Miami, FL.
+
+**Klein, R. A.** (2015). Many Labs 2: Investigating Variation in Replicability across Sample and Setting. Invited talk presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
+
+**Klein, R. A.** (2015). Replication, collaboration, and variability: What we’ve learned from 3 years of “Many Labs” projects. Talk presented at the Colloquium Speaker Series for Social Psychology, Gainesville, FL.
+
+**Klein, R. A.** (2014). Crowdsourcing Research to Increase Reproducibility, Generalizability, and Accuracy. Talk presented at the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.
+
+**Klein, R. A.** (2014). Investigating Variation in Replicability. Talk presented at the Colloquium Speaker Series for Social Psychology, Gainesville, FL.
+
+**Klein, R. A.** (2013). The ‘Many Labs’ Project: Examining replicability in an online environment. Talk presented at the Colloquium Speaker Series for Social Psychology, Gainesville, FL.
+
+# Poster Presentations
+
+**Klein, R. A.** (2017). “Many labs” and communication in replication. Poster presented at the Eighteenth Annual Meeting of the Society for Personality and Social Psychology, San Antonio, TX.
+
+Bland, D.\*, Grahe, J., **Klein, R. A.** (2015). Disgust sensitivity and judgements of intentions as part of the Many Labs 2 project. Poster presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
+
+Coddington, K.\*, Gervais, H.\*, Grahe, J., **Klein, R. A.** (2015). Replication examining moral typecasting effects as part of the Many Labs 2 project. Poster presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
+
+Grisham, E.\*, Musselman, D.\*, Barnette, T.\*, Powers, M.\*, Gonzalez, G.\*, … **Klein, R. A.**, … Redford, L. (2015). Implicit preference for White people over Black people decreases with repeated Implicit Association Tests (IATs). Poster presented at the Undergraduate Research Forum, University of Florida Psychology Department, Gainesville, FL
+
+**Klein, R. A.**, Vianello, M., & Ratliff, K. A. (2015). Attention checking the “Many Labs” participants: Did participant attention moderate the included effects?. Poster presented at the Sixteenth Annual Meeting of the Society for Personality and Social Psychology, Long Beach, CA.
+
+**Klein, R. A.**, & Ratliff, K. A. (2014). Context effects in implicit and explicit evaluation. Poster presented at the Fifteenth Annual Meeting of the Society for Personality and Social Psychology, Austin, TX.
+
+Collisson, B. & **Klein, R. A.** (2012). Personality correlates of social inference. Poster presented at the Meeting of the Society of Southeastern Social Psychologists, Gainesville, FL.
+
+# Supervised Undergraduate Theses
+
+- Donovan Ellis, University of Florida, awarded Highest Distinction \hfill 2015
+
 
 # Awards and Honors
 
 - Peer-review for:
-- Frontiers in Psychology, Review Editor \hfill 2017 - 2018
--	Social Psychological and Personality Science
--	Perspectives on Psychological Science
--	Journal of Social Psychology
--	PLOS ONE
--	American Journal of Political Science
+    + Frontiers in Psychology, Review Editor \hfill 2017 - 2018
+    + Social Psychological and Personality Science
+    + Perspectives on Psychological Science
+    + Journal of Social Psychology
+    + PLOS ONE
+    + American Journal of Political Science
 -	Gerber Social Psychology Outstanding Research Award ($1,000) \hfill 2016
 -	Incubator Grant, Center for Open Science ($13,500) \hfill 2015
 -	Travel Award, UF Department of Psychology ($500) \hfill 2015
@@ -92,6 +145,20 @@ Research covered by Nature magazine, Science magazine, National Geographic magaz
 -	Graduate School Fellowship, University of Florida ($80,000) \hfill 2012 – 2016
 -	Dean’s List, Penn State \hfill 2007 – 2011
 
+# Relevant skills
 
-- Award of Excellence \hfill 2017
-- Travel Grant \hfill 2017
+- Statistical programs: 
+    + R, SPSS, JASP
+- Statistics: 
+    + Regression, correlation, ANOVA
+    + Mixed models
+    + Factor analysis
+    + Meta-analysis
+    + Machine learning/Deep learning (beginner)
+- Other programs: 
+    + MS Excel/Office/Word/PowerPoint
+    + Google Docs/Sheets/Forms
+    + Qualtrics Survey Software
+- Languages: 
+    + English (native)
+    + French (beginner)
