@@ -13,6 +13,7 @@ email: raklein22@gmail.com
 github: raklein
 twitter: "@raklein3"
 phone: "phone on request"
+web: raklein.me
 updated: no
 
 keywords: R Markdown, academic CV, template
