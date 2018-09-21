@@ -58,7 +58,7 @@ Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. 
 
 **Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Investigating variation in replicability: A "many labs" replication project.  *Social Psychology, 45*(3): 142-152. [https://doi.org/10.1027/1864-9335/a000178](https://doi.org/10.1027/1864-9335/a000178)  
 
-- Research covered by *Nature magazine, Science magazine, National Geographic magazine*, and others. Named one of the top stories of 2013 by the *Society for Personality and Social Psychology*.
+- Research covered by [Nature magazine](https://www.nature.com/news/psychologists-strike-a-blow-for-reproducibility-1.14232), [Science magazine](http://www.sciencemag.org/news/2013/11/second-look-psychology-experiments-offers-reassurance), [National Geographic magazine](https://www.nationalgeographic.com/science/phenomena/2013/11/26/welcome-to-the-era-of-big-replication/), and others.
 
 # Manuscripts in Progress
 
