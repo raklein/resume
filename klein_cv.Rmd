@@ -75,18 +75,19 @@ Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. 
 
 # Manuscripts in Progress
 
-**Klein, R. A.**, Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., Alper, S., … Nosek, B. A. (under review). Many labs 2: Investigating variation in replicability across sample and setting. Pre-registered replication report under review at *Advances in Methods and Practices in Psychological Science*.
+**Klein, R. A.**, Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., Alper, S., … Nosek, B. A. (under review). Many labs 2: Investigating variation in replicability across sample and setting. Registered Replication Report under review at *Advances in Methods and Practices in Psychological Science*.
 
 # Organized Symposia and Workshops
 
-Add Bordeaux
+IJzerman, H. I., Ric, F., **Klein, R. A.** (2018). RKTS Solid Science Training Workshop in Bordeaux, France. Speakers: Michèle Nuijten, Fieke Wagemans, Marco Perugini, Richard Klein, Kai Jonas, Frederik Aust, Benedict Jones.
 
 **Klein, R. A.** (2014). Reproducibility in Psychology: Understanding and Improving Your Odds. Symposium organized for the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA. Speakers: Gregory Webster, Richard Klein, Chris Martin.
 
 # Talks
 
-Add ESCON
-Add Bordeaux
+**Klein, R. A.** (2018). Exploratory social science: Getting the most out of your data, and	an introduction to concepts in deep learning and cross-validation. Workshop session presented at the RKTS Solid Science Training Workshop in Bordeaux, France.
+
+**Klein, R. A.** (2018). Many Labs 2: Investigating Variation in Replicability across Sample and Setting. Talk presented at the 20th ESCON Transfer of Knowledge Conference, Cologne, Germany.
 
 **Klein, R. A.** (2015). Replication in psychology: How sensitive are our findings? Invited talk presented at the Victoria University of Wellington Psychology Colloquium Series, Wellington, New Zealand.
 
@@ -118,16 +119,15 @@ Collisson, B. & **Klein, R. A.** (2012). Personality correlates of social infere
 
 - Donovan Ellis, University of Florida, awarded Highest Distinction \hfill 2015
 
+# Awards, Honors, Service
 
-# Awards and Honors
-
-- Peer-review for:
-    + Frontiers in Psychology, Review Editor \hfill 2017 - 2018
-    + Social Psychological and Personality Science
-    + Perspectives on Psychological Science
-    + Journal of Social Psychology
-    + PLOS ONE
-    + American Journal of Political Science
+- Peer-reviewed for:
+    + *Frontiers in Psychology, Review Editor* \hfill 2017 - 2018
+    + *Social Psychological and Personality Science*
+    + *Perspectives on Psychological Science*
+    + *Journal of Social Psychology*
+    + *PLOS ONE*
+    + *American Journal of Political Science*
 -	Gerber Social Psychology Outstanding Research Award ($1,000) \hfill 2016
 -	Incubator Grant, Center for Open Science ($13,500) \hfill 2015
 -	Travel Award, UF Department of Psychology ($500) \hfill 2015
@@ -135,7 +135,7 @@ Collisson, B. & **Klein, R. A.** (2012). Personality correlates of social infere
 -	Travel Award, Society for Personality and Social Psychology ($500) \hfill 2015
 -	Advisory Board Member, CREP Project \hfill 2014 – 2016
 -	Graduate School Fellowship, University of Florida ($80,000) \hfill 2012 – 2016
--	Dean’s List, Penn State \hfill 2007 – 2011
+-	Dean’s List, Pennsylvania State University \hfill 2007 – 2011
 
 # Relevant skills
 
