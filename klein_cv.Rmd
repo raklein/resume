@@ -40,38 +40,24 @@ urlcolor: blue
 **BS in Psychology, BS in Finance** \hfill 2011  
 *Pennsylvania State University, University Park, PA*
 
-# Professional Experience 
-
-**Position name** \hfill Jan 2018 - current  
-*Organization, Place-name, State*
-
-- Something that you accomplished in your position; demonstrate leadership, teamwork, creativity, etc. Maybe show some numbers. Give some detail!
-- Something else that you did. Don't be shy.
-
-**Another position** \hfill Jan - Dec 2017  
-*Organization, Place-name, State*
-
-- Something that you did
-- Something else that you did
-
 # Peer Reviewed Publications
 (\* indicates undergraduate author)
 
-Bastart, J., **Klein, R. A.**, IJzerman, H., (2018). Replication Initiatives in Psychology. *Oxford Bibliographies in Psychology*. doi: [10.1093/OBO/9780199828340-0212](10.1093/OBO/9780199828340-0212)
+Bastart, J., **Klein, R. A.**, IJzerman, H., (2018). Replication Initiatives in Psychology. *Oxford Bibliographies in Psychology*. [https://doi.org/10.1093/OBO/9780199828340-0212](https://doi.org/10.1093/OBO/9780199828340-0212)
 
-Milfont, T. L., **Klein, R. A.** (2018). Replication and reproducibility in cross-cultural psychology. *Journal of Cross-Cultural Psychology, 49*(5), 735-750. doi: [10.1177/0022022117744892](10.1177/0022022117744892)
+Milfont, T. L., **Klein, R. A.** (2018). Replication and reproducibility in cross-cultural psychology. *Journal of Cross-Cultural Psychology, 49*(5), 735-750. [https://doi.org/10.1177/0022022117744892](https://doi.org/10.1177/0022022117744892)
 
-Ebersole, C. R., Atherton, O. E., Belanger, A. L., Skulborstad, H. M., Allen, J. M., … **Klein, R. A.**, … Nosek, B. A. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. *Journal of Experimental Social Psychology*.
+Ebersole, C. R., Atherton, O. E., Belanger, A. L., Skulborstad, H. M., Allen, J. M., … **Klein, R. A.**, … Nosek, B. A. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. *Journal of Experimental Social Psychology*. [https://doi.org/10.1016/j.jesp.2015.10.012](https://doi.org/10.1016/j.jesp.2015.10.012)
 
-Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. A.**, … Nosek, B. A. (2016). Reducing implicit racial preferences: II. Intervention effectiveness across time. *Journal of Experimental Psychology: General, 145*, 1001-1016.
+Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. A.**, … Nosek, B. A. (2016). Reducing implicit racial preferences: II. Intervention effectiveness across time. *Journal of Experimental Psychology: General, 145*, 1001-1016. [https://doi.org/10.1037/xge0000179](https://doi.org/10.1037/xge0000179)
 
-**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Investigating variation in replicability: A "many labs" replication project.  *Social Psychology, 45*(3): 142-152. doi: [10.1027/1864-9335/a000178](10.1027/1864-9335/a000178)  
+**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Data from investigating variation in replicability: A “many labs” replication project. *Journal of Open Psychology Data, 2*(1): e4. [http://dx.doi.org/10.5334/jopd.ad](http://dx.doi.org/10.5334/jopd.ad)
 
-- Research covered by *Nature magazine, Science magazine, National Geographic magazine*, and others. Named one of the top stories of 2013 by the *Society of Personality and Social Psychology*.
+**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Theory building through replication: Response to commentaries on the “many labs” replication project. *Social Psychology, 45*(4): 307-310. [https://doi.org/10.1027/1864-9335/a000202](https://doi.org/10.1027/1864-9335/a000202)
 
-**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Data from investigating variation in replicability: A “many labs” replication project. *Journal of Open Psychology Data, 2*(1): e4. doi: [http://dx.doi.org/10.5334/jopd.ad](http://dx.doi.org/10.5334/jopd.ad)
+**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Investigating variation in replicability: A "many labs" replication project.  *Social Psychology, 45*(3): 142-152. [https://doi.org/10.1027/1864-9335/a000178](https://doi.org/10.1027/1864-9335/a000178)  
 
-**Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Theory building through replication: Response to commentaries on the “many labs” replication project. *Social Psychology, 45*(4): 307-310.
+- Research covered by *Nature magazine, Science magazine, National Geographic magazine*, and others. Named one of the top stories of 2013 by the *Society for Personality and Social Psychology*.
 
 # Manuscripts in Progress
 
@@ -79,9 +65,11 @@ Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. 
 
 # Organized Symposia and Workshops
 
-IJzerman, H. I., Ric, F., **Klein, R. A.** (2018). RKTS Solid Science Training Workshop in Bordeaux, France. Speakers: Michèle Nuijten, Fieke Wagemans, Marco Perugini, Richard Klein, Kai Jonas, Frederik Aust, Benedict Jones.
+IJzerman, H. I., Ric, F., **Klein, R. A.** (2018). RKTS Solid Science Training Workshop in Bordeaux, France.  
+Speakers: Michèle Nuijten, Fieke Wagemans, Marco Perugini, Richard Klein, Kai Jonas, Frederik Aust, Benedict Jones.
 
-**Klein, R. A.** (2014). Reproducibility in Psychology: Understanding and Improving Your Odds. Symposium organized for the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA. Speakers: Gregory Webster, Richard Klein, Chris Martin.
+**Klein, R. A.** (2014). Reproducibility in Psychology: Understanding and Improving Your Odds. Symposium organized for the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.  
+Speakers: Gregory Webster, Richard Klein, Chris Martin.
 
 # Talks
 
@@ -101,19 +89,70 @@ Grahe, J., Sharon, T., Hall, S. S., **Klein, R. A.** (2015). Emerging Adulthood 
 
 # Poster Presentations
 
-**Klein, R. A.** (2017). “Many labs” and communication in replication. Poster presented at the Eighteenth Annual Meeting of the Society for Personality and Social Psychology, San Antonio, TX.
+**Klein, R. A.** (2017). *“Many labs” and communication in replication*. Poster presented at the Eighteenth Annual Meeting of the Society for Personality and Social Psychology, San Antonio, TX.
 
-Bland, D.\*, Grahe, J., **Klein, R. A.** (2015). Disgust sensitivity and judgements of intentions as part of the Many Labs 2 project. Poster presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
+Bland, D.\*, Grahe, J., **Klein, R. A.** (2015). *Disgust sensitivity and judgements of intentions as part of the Many Labs 2 project*. Poster presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
 
-Coddington, K.\*, Gervais, H.\*, Grahe, J., **Klein, R. A.** (2015). Replication examining moral typecasting effects as part of the Many Labs 2 project. Poster presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
+Coddington, K.\*, Gervais, H.\*, Grahe, J., **Klein, R. A.** (2015). *Replication examining moral typecasting effects as part of the Many Labs 2 project*. Poster presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
 
-Grisham, E.\*, Musselman, D.\*, Barnette, T.\*, Powers, M.\*, Gonzalez, G.\*, … **Klein, R. A.**, … Redford, L. (2015). Implicit preference for White people over Black people decreases with repeated Implicit Association Tests (IATs). Poster presented at the Undergraduate Research Forum, University of Florida Psychology Department, Gainesville, FL
+Grisham, E.\*, Musselman, D.\*, Barnette, T.\*, Powers, M.\*, Gonzalez, G.\*, … **Klein, R. A.**, … Redford, L. (2015). *Implicit preference for White people over Black people decreases with repeated Implicit Association Tests (IATs)*. Poster presented at the Undergraduate Research Forum, University of Florida Psychology Department, Gainesville, FL
 
-**Klein, R. A.**, Vianello, M., & Ratliff, K. A. (2015). Attention checking the “Many Labs” participants: Did participant attention moderate the included effects?. Poster presented at the Sixteenth Annual Meeting of the Society for Personality and Social Psychology, Long Beach, CA.
+**Klein, R. A.**, Vianello, M., & Ratliff, K. A. (2015). *Attention checking the “Many Labs” participants: Did participant attention moderate the included effects?*. Poster presented at the Sixteenth Annual Meeting of the Society for Personality and Social Psychology, Long Beach, CA.
 
-**Klein, R. A.**, & Ratliff, K. A. (2014). Context effects in implicit and explicit evaluation. Poster presented at the Fifteenth Annual Meeting of the Society for Personality and Social Psychology, Austin, TX.
+**Klein, R. A.**, & Ratliff, K. A. (2014). *Context effects in implicit and explicit evaluation*. Poster presented at the Fifteenth Annual Meeting of the Society for Personality and Social Psychology, Austin, TX.
 
-Collisson, B. & **Klein, R. A.** (2012). Personality correlates of social inference. Poster presented at the Meeting of the Society of Southeastern Social Psychologists, Gainesville, FL.
+Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social inference*. Poster presented at the Meeting of the Society of Southeastern Social Psychologists, Gainesville, FL.
+
+# Research Experience
+
+**Postdoctoral Researcher** \hfill 2018 - Present  
+*Coregulation Lab, Université Grenoble Alpes*
+
+- PI: Dr. Hans IJzerman
+
+**Research Coordinator** \hfill 2015 - 2017  
+*Project Implicit, implicit.harvard.edu*
+
+- Director: Dr. Kate Ratliff
+- Deployed and oversaw research projects site-wide.
+- Worked with back-end developers to ensure smooth operation of site.
+
+**Researcher** \hfill 2012 - 2017  
+*Attitudes and Social Cognition Lab, University of Florida*
+
+- PI: Dr. Kate Ratliff
+
+**Undergraduate Research Assistant** \hfill 2011 - 2012  
+*Social Vision and Interpersonal Perception Lab, Penn State*
+
+- PI: Dr. Reginald Adams
+
+**Intern** \hfill Fall 2010  
+*International Center for the Study of Terrorism, Penn State*
+
+# Teaching Experience
+
+**Instructor**   
+*University of Florida*
+
+- PSY2012 - Introduction to Psychology (x2) \hfill Fall 2014, Summer 2015
+- Class size: 70; Overall evaluation: 4.42/5
+
+**Teaching Assistant**  
+*University of Florida*
+
+-	PSY4625 – Psychology of Pseudoscience \hfill Spring 2017
+-	SOP4214C – Research Methods in Social Psychology \hfill Fall 2016
+- PSY4930 – Psychology of Public Policy \hfill Summer 2014
+- SOP3004 – Introduction to Social Psychology (x3) \hfill Fall 2013, Spring 2014, Spring 2015
+
+**Teaching Assistant**  
+*Pennsylvania State University*
+
+- PSYCH105 – Psychology as a Science and Profession \hfill Spring 2012
+- PSYCH261 – Introduction to the Psychology of Learning \hfill Spring 2012
+-	PSYCH243 – Introduction To Well-Being And Positive Psychology (x2) \hfill Fall 2011, Spring 2012
+- PSYCH100 – Introductory Psychology (x4) \hfill Fall 2011
 
 # Supervised Undergraduate Theses
 
@@ -137,20 +176,9 @@ Collisson, B. & **Klein, R. A.** (2012). Personality correlates of social infere
 -	Graduate School Fellowship, University of Florida ($80,000) \hfill 2012 – 2016
 -	Dean’s List, Pennsylvania State University \hfill 2007 – 2011
 
-# Relevant skills
+# Relevant Skills
 
-- Statistical programs: 
-    + R, SPSS, JASP
-- Statistics: 
-    + Regression, correlation, ANOVA
-    + Mixed models
-    + Factor analysis
-    + Meta-analysis
-    + Machine learning/Deep learning (beginner)
-- Other programs: 
-    + MS Excel/Office/Word/PowerPoint
-    + Google Docs/Sheets/Forms
-    + Qualtrics Survey Software
-- Languages: 
-    + English (native)
-    + French (beginner)
+- **Statistical programs**: R + R Studio, SPSS, JASP
+- **Statistical techniques**: Linear/Logistic/Multiple Regression, Correlation, ANOVA, Mixed models, Factor analysis, Meta-analysis, Machine learning/Deep learning (beginner), Social Network Analysis (beginner)
+- **Other tools**: Open Science Framework, MS Excel/Word/PowerPoint, Google Sheets/Docs/Forms, Qualtrics Survey Software, Git/GitHub
+- **Languages**: English (native), French (beginner)
