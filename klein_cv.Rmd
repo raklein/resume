@@ -44,7 +44,11 @@ urlcolor: blue
 # Peer Reviewed Publications
 (\* indicates undergraduate author)
 
-Bastart, J., **Klein, R. A.**, IJzerman, H., (2018). Replication Initiatives in Psychology. *Oxford Bibliographies in Psychology*. [https://doi.org/10.1093/OBO/9780199828340-0212](https://doi.org/10.1093/OBO/9780199828340-0212)
+**Klein, R. A.**, Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., Alper, S., … Nosek, B. A. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443–490. [https://doi.org/10.1177/2515245918810225](https://doi.org/10.1177/2515245918810225)
+
+- Research covered by [Nature](https://www.nature.com/articles/d41586-018-07474-y), [The Atlantic](https://www.theatlantic.com/science/archive/2018/11/psychologys-replication-crisis-real/576223/), and others.
+
+Bastart, J., **Klein, R. A.**, IJzerman, H., (2018). Replication initiatives in psychology. *Oxford Bibliographies in Psychology*. [https://doi.org/10.1093/OBO/9780199828340-0212](https://doi.org/10.1093/OBO/9780199828340-0212)
 
 Milfont, T. L., **Klein, R. A.** (2018). Replication and reproducibility in cross-cultural psychology. *Journal of Cross-Cultural Psychology, 49*(5), 735-750. [https://doi.org/10.1177/0022022117744892](https://doi.org/10.1177/0022022117744892)
 
@@ -58,11 +62,7 @@ Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. 
 
 **Klein, R. A.**, Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, S., Bernstein, M. J., Bocian, K., … Nosek, B. A. (2014). Investigating variation in replicability: A "many labs" replication project.  *Social Psychology, 45*(3): 142-152. [https://doi.org/10.1027/1864-9335/a000178](https://doi.org/10.1027/1864-9335/a000178)  
 
-- Research covered by [Nature magazine](https://www.nature.com/news/psychologists-strike-a-blow-for-reproducibility-1.14232), [Science magazine](http://www.sciencemag.org/news/2013/11/second-look-psychology-experiments-offers-reassurance), [National Geographic magazine](https://www.nationalgeographic.com/science/phenomena/2013/11/26/welcome-to-the-era-of-big-replication/), and others.
-
-# Manuscripts in Progress
-
-**Klein, R. A.**, Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., Alper, S., … Nosek, B. A. (under review). Many labs 2: Investigating variation in replicability across sample and setting. Registered Replication Report under review at *Advances in Methods and Practices in Psychological Science*.
+- Research covered by [Nature](https://www.nature.com/news/psychologists-strike-a-blow-for-reproducibility-1.14232), [Science magazine](http://www.sciencemag.org/news/2013/11/second-look-psychology-experiments-offers-reassurance), [National Geographic](https://www.nationalgeographic.com/science/phenomena/2013/11/26/welcome-to-the-era-of-big-replication/), and others.
 
 # Organized Symposia and Workshops
 
@@ -74,19 +74,21 @@ Speakers: Gregory Webster, Richard Klein, Chris Martin.
 
 # Talks
 
-**Klein, R. A.** (2018). Exploratory social science: Getting the most out of your data, and	an introduction to concepts in deep learning and cross-validation. Workshop session presented at the RKTS Solid Science Training Workshop in Bordeaux, France.
+**Klein, R. A.** (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Talk presented at the Integrity and Sharing of Science: Research Data seminar, Grenoble, France. [https://github.com/raklein/presentation-datadoct2018-ml2](https://github.com/raklein/presentation-datadoct2018-ml2)
 
-**Klein, R. A.** (2018). Many Labs 2: Investigating Variation in Replicability across Sample and Setting. Talk presented at the 20th ESCON Transfer of Knowledge Conference, Cologne, Germany.
+**Klein, R. A.** (2018). Introduction to concepts in deep learning and cross-validation. Workshop session presented at the RKTS Solid Science Training Workshop in Bordeaux, France. [https://osf.io/ya2n8/](https://osf.io/ya2n8/)
+
+**Klein, R. A.** (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Talk presented at the 20th ESCON Transfer of Knowledge Conference, Cologne, Germany.
 
 **Klein, R. A.** (2015). Replication in psychology: How sensitive are our findings? Invited talk presented at the Victoria University of Wellington Psychology Colloquium Series, Wellington, New Zealand.
 
 **Klein, R. A.** (2015). Networking: Online and in-person. Talk presented at the Psychology Graduate Student Organization Professional Development Seminar, Gainesville, FL.
 
-Grahe, J., Sharon, T., Hall, S. S., **Klein, R. A.** (2015). Emerging Adulthood Measured at Multiple Institutions: A New Model to Study Emerging Adulthood. Panelist on a discussion panel presented at the Society for the Study of Emerging Adulthood 7th Biennial Conference, Miami, FL.
+Grahe, J., Sharon, T., Hall, S. S., **Klein, R. A.** (2015). Emerging adulthood measured at multiple institutions: A new model to study emerging adulthood. Panelist on a discussion panel presented at the Society for the Study of Emerging Adulthood 7th Biennial Conference, Miami, FL.
 
-**Klein, R. A.** (2015). Many Labs 2: Investigating Variation in Replicability across Sample and Setting. Invited talk presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
+**Klein, R. A.** (2015). Many Labs 2: Investigating variation in replicability across samples and settings. Invited talk presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
 
-**Klein, R. A.** (2014). Crowdsourcing Research to Increase Reproducibility, Generalizability, and Accuracy. Talk presented at the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.
+**Klein, R. A.** (2014). Crowdsourcing research to increase reproducibility, generalizability, and accuracy. Talk presented at the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.
 
 # Poster Presentations
 
@@ -110,6 +112,8 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *Coregulation Lab, Université Grenoble Alpes*
 
 - PI: Dr. Hans IJzerman
+- Established lab workflow for reproducibility
+- Designed, conducted, and published research
 
 **Research Coordinator** \hfill 2015 - 2017  
 *Project Implicit, implicit.harvard.edu*
@@ -122,6 +126,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *Attitudes and Social Cognition Lab, University of Florida*
 
 - PI: Dr. Kate Ratliff
+- Designed, conducted, and published research
 
 **Undergraduate Research Assistant** \hfill 2011 - 2012  
 *Social Vision and Interpersonal Perception Lab, Penn State*
