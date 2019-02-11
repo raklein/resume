@@ -1,7 +1,7 @@
 ---
 output: 
   pdf_document:
-    latex_engine: pdflatex
+    latex_engine: pdflatex # I installed https://yihui.name/tinytex/ instead of the recommended defaults
     template: cv-latex.tex
 geometry: margin=.7in
 
@@ -74,6 +74,10 @@ Speakers: Gregory Webster, Richard Klein, Chris Martin.
 
 # Talks
 
+**Klein, R. A.** (2019). Walking through Many Labs 4 to show how R can make complex analyses easier. Workshop presented at Pacific Lutheran University, Tacoma, Washington, USA.
+
+**Klein, R. A.** (2019). Many Labs 2: Investigating replicability across samples and settings. Talk presented at the Society for Personality and Social Psychology annual conference, Portland, Oregon, USA. [https://github.com/raklein/presentation-spsp2019-ml2](https://github.com/raklein/presentation-spsp2019-ml2)
+
 **Klein, R. A.** (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Talk presented at the Integrity and Sharing of Science: Research Data seminar, Grenoble, France. [https://github.com/raklein/presentation-datadoct2018-ml2](https://github.com/raklein/presentation-datadoct2018-ml2)
 
 **Klein, R. A.** (2018). Introduction to concepts in deep learning and cross-validation. Workshop session presented at the RKTS Solid Science Training Workshop in Bordeaux, France. [https://osf.io/ya2n8/](https://osf.io/ya2n8/)
@@ -82,13 +86,19 @@ Speakers: Gregory Webster, Richard Klein, Chris Martin.
 
 **Klein, R. A.** (2015). Replication in psychology: How sensitive are our findings? Invited talk presented at the Victoria University of Wellington Psychology Colloquium Series, Wellington, New Zealand.
 
-**Klein, R. A.** (2015). Networking: Online and in-person. Talk presented at the Psychology Graduate Student Organization Professional Development Seminar, Gainesville, FL.
-
-Grahe, J., Sharon, T., Hall, S. S., **Klein, R. A.** (2015). Emerging adulthood measured at multiple institutions: A new model to study emerging adulthood. Panelist on a discussion panel presented at the Society for the Study of Emerging Adulthood 7th Biennial Conference, Miami, FL.
-
 **Klein, R. A.** (2015). Many Labs 2: Investigating variation in replicability across samples and settings. Invited talk presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
 
 **Klein, R. A.** (2014). Crowdsourcing research to increase reproducibility, generalizability, and accuracy. Talk presented at the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.
+
+# Discussion Panels
+
+Baranski, E., Weston, S. (2019). Lifespan pre-conference open science discussion. Discussion panel presented at the Lifespan Preconference of the Society for Personality and Social Psychology annual conference, Portland, Oregon, USA.  
+Panelists: Charles Ebersole, **Richard Klein**, Jessie Sun, Cassie Brandes, Alex Danvers, Ted Schwaba
+
+Grahe, J., (2015). Emerging adulthood measured at multiple institutions: A new model to study emerging adulthood. Discussion panel presented at the Society for the Study of Emerging Adulthood 7th Biennial Conference, Miami, FL.  
+Panelists: **Richard Klein**, Tanya Sharon, Scott Hall
+
+**Klein, R. A.** (2015). Networking: Online and in-person. Talk and panel discussion presented at the Psychology Graduate Student Organization Professional Development Seminar, Gainesville, FL.
 
 # Poster Presentations
 
