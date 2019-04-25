@@ -12,7 +12,7 @@ fontawesome: yes
 email: raklein22@gmail.com
 github: raklein
 twitter: "@raklein3"
-phone: "phone on request"
+phone: "on request"
 web: raklein.me
 updated: no
 
@@ -66,15 +66,26 @@ Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. 
 
 # Organized Symposia and Workshops
 
+**Klein, R. A.** (2019). Open Science Toolbox: Leveraging Methodological Reforms to Accelerate Research. Symposium organized for the International Convention of Psychological Science, Paris, France.  
+Speakers: **Richard Klein**, Ben Jones, Lisa DeBruine, Niamh Stack.
+[https://osf.io/tve2q/](https://osf.io/tve2q/)
+
 IJzerman, H. I., Ric, F., **Klein, R. A.** (2018). RKTS Solid Science Training Workshop in Bordeaux, France.  
-Speakers: Michèle Nuijten, Fieke Wagemans, Marco Perugini, Richard Klein, Kai Jonas, Frederik Aust, Benedict Jones.
+Speakers: Michèle Nuijten, Fieke Wagemans, Marco Perugini, **Richard Klein**, Kai Jonas, Frederik Aust, Benedict Jones.
+[https://osf.io/gvkxn/](https://osf.io/gvkxn/)
 
 **Klein, R. A.** (2014). Reproducibility in Psychology: Understanding and Improving Your Odds. Symposium organized for the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.  
-Speakers: Gregory Webster, Richard Klein, Chris Martin.
+Speakers: Gregory Webster, **Richard Klein**, Chris Martin.
 
 # Talks
 
-**Klein, R. A.** (2019). Walking through Many Labs 4 to show how R can make complex analyses easier. Workshop presented at Pacific Lutheran University, Tacoma, Washington, USA.
+**Klein, R. A.** (2019). An Overview of Workflow Management: Using the Open Science Framework. Workshop presented as part of the Open Science Workshop, Grenoble, France. [https://osf.io/nxem8/](https://osf.io/nxem8/)
+
+**Klein, R. A.** (2019). Welcome to the Era of Big Psychology. Workshop presented as part of the Machine Learning: Applications to Clinical and Psychological Research Workshop, Rovereto, Italy. [https://github.com/raklein/presentation-rep-machine-learning-rovereto](https://github.com/raklein/presentation-rep-machine-learning-rovereto)
+
+**Klein, R. A.** (2019). Many Labs 2: Investigating variation in replicability across sample and setting. Talk presented at the International Convention of Psychological Science, Paris, France. [https://github.com/raklein/presentation-spsp2019-ml2](https://github.com/raklein/presentation-spsp2019-ml2)
+
+**Klein, R. A.** (2019). Walking through Many Labs 4 to show how R can make complex analyses easier. Workshop recorded for Pacific Lutheran University, Tacoma, Washington, USA.
 
 **Klein, R. A.** (2019). Many Labs 2: Investigating replicability across samples and settings. Talk presented at the Society for Personality and Social Psychology annual conference, Portland, Oregon, USA. [https://github.com/raklein/presentation-spsp2019-ml2](https://github.com/raklein/presentation-spsp2019-ml2)
 
