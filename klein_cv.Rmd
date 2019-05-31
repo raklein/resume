@@ -64,7 +64,14 @@ Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. 
 
 - Research covered by [Nature](https://www.nature.com/news/psychologists-strike-a-blow-for-reproducibility-1.14232), [Science magazine](http://www.sciencemag.org/news/2013/11/second-look-psychology-experiments-offers-reassurance), [National Geographic](https://www.nationalgeographic.com/science/phenomena/2013/11/26/welcome-to-the-era-of-big-replication/), and others.
 
-# Organized Symposia and Workshops
+# Organized Conferences, Symposia, and Workshops
+
+**Klein, R. A.**, Balzarini, R., IJzerman, H., Sarda, E., Kaufman, M. (2019). EASP Technology and Relationships Conference and Facebook+AdopteUnMec Hackathon. Annecy, France.  
+[https://techandrelationships.org/](https://techandrelationships.org/)
+
+**Klein, R. A.** (2019). Open Science Toolbox: Leveraging Methodological Reforms to Accelerate Research. Symposium organized for the International Convention of Psychological Science, Paris, France.  
+Speakers: **Richard Klein**, Ben Jones, Lisa DeBruine, Niamh Stack.
+[https://osf.io/tve2q/](https://osf.io/tve2q/)
 
 **Klein, R. A.** (2019). Open Science Toolbox: Leveraging Methodological Reforms to Accelerate Research. Symposium organized for the International Convention of Psychological Science, Paris, France.  
 Speakers: **Richard Klein**, Ben Jones, Lisa DeBruine, Niamh Stack.
@@ -208,4 +215,4 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 - **Statistical programs**: R + R Studio, SPSS, JASP
 - **Statistical techniques**: Linear/Logistic/Multiple Regression, Correlation, ANOVA, Mixed models, Factor analysis, Meta-analysis, Machine learning/Deep learning (beginner), Social Network Analysis (beginner)
 - **Other tools**: Open Science Framework, MS Excel/Word/PowerPoint, Google Sheets/Docs/Forms, Qualtrics Survey Software, Git/GitHub
-- **Languages**: English (native), French (beginner)
+- **Languages**: English (native), French (intermediate)
