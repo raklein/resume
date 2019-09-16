@@ -67,11 +67,7 @@ Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., … **Klein, R. 
 # Organized Conferences, Symposia, and Workshops
 
 **Klein, R. A.**, Balzarini, R., IJzerman, H., Sarda, E., Kaufman, M. (2019). EASP Technology and Relationships Conference and Facebook+AdopteUnMec Hackathon. Annecy, France.  
-[https://techandrelationships.org/](https://techandrelationships.org/)
-
-**Klein, R. A.** (2019). Open Science Toolbox: Leveraging Methodological Reforms to Accelerate Research. Symposium organized for the International Convention of Psychological Science, Paris, France.  
-Speakers: **Richard Klein**, Ben Jones, Lisa DeBruine, Niamh Stack.
-[https://osf.io/tve2q/](https://osf.io/tve2q/)
+[https://web.archive.org/web/20190916124841/https://techandrelationships.org/](https://web.archive.org/web/20190916124841/https://techandrelationships.org/)
 
 **Klein, R. A.** (2019). Open Science Toolbox: Leveraging Methodological Reforms to Accelerate Research. Symposium organized for the International Convention of Psychological Science, Paris, France.  
 Speakers: **Richard Klein**, Ben Jones, Lisa DeBruine, Niamh Stack.
@@ -88,7 +84,7 @@ Speakers: Gregory Webster, **Richard Klein**, Chris Martin.
 
 **Klein, R. A.** (2019). An Overview of Workflow Management: Using the Open Science Framework. Workshop presented as part of the Open Science Workshop, Grenoble, France. [https://osf.io/nxem8/](https://osf.io/nxem8/)
 
-**Klein, R. A.** (2019). Welcome to the Era of Big Psychology. Workshop presented as part of the Machine Learning: Applications to Clinical and Psychological Research Workshop, Rovereto, Italy. [https://github.com/raklein/presentation-rep-machine-learning-rovereto](https://github.com/raklein/presentation-rep-machine-learning-rovereto)
+**Klein, R. A.** (2019). Welcome to the era of big psychology. Invited workshop presented as part of the Machine Learning: Applications to Clinical and Psychological Research Workshop, Rovereto, Italy. [https://github.com/raklein/presentation-rep-machine-learning-rovereto](https://github.com/raklein/presentation-rep-machine-learning-rovereto)
 
 **Klein, R. A.** (2019). Many Labs 2: Investigating variation in replicability across sample and setting. Talk presented at the International Convention of Psychological Science, Paris, France. [https://github.com/raklein/presentation-spsp2019-ml2](https://github.com/raklein/presentation-spsp2019-ml2)
 
@@ -100,13 +96,13 @@ Speakers: Gregory Webster, **Richard Klein**, Chris Martin.
 
 **Klein, R. A.** (2018). Introduction to concepts in deep learning and cross-validation. Workshop session presented at the RKTS Solid Science Training Workshop in Bordeaux, France. [https://osf.io/ya2n8/](https://osf.io/ya2n8/)
 
-**Klein, R. A.** (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Talk presented at the 20th ESCON Transfer of Knowledge Conference, Cologne, Germany.
+**Klein, R. A.** (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Talk presented at the 20th ESCON Transfer of Knowledge Conference, Cologne, Germany.[https://osf.io/vznpj/](https://osf.io/vznpj/)
 
-**Klein, R. A.** (2015). Replication in psychology: How sensitive are our findings? Invited talk presented at the Victoria University of Wellington Psychology Colloquium Series, Wellington, New Zealand.
+**Klein, R. A.** (2015). Replication in psychology: How sensitive are our findings? Invited talk presented at the Victoria University of Wellington Psychology Colloquium Series, Wellington, New Zealand.[https://osf.io/m8u9b/](https://osf.io/m8u9b/)
 
-**Klein, R. A.** (2015). Many Labs 2: Investigating variation in replicability across samples and settings. Invited talk presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.
+**Klein, R. A.** (2015). Many Labs 2: Investigating variation in replicability across samples and settings. Invited talk presented at the 95th Annual Convention of the Western Psychological Association, Las Vegas, NV.[https://osf.io/43h9x/](https://osf.io/43h9x/)
 
-**Klein, R. A.** (2014). Crowdsourcing research to increase reproducibility, generalizability, and accuracy. Talk presented at the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.
+**Klein, R. A.** (2014). Crowdsourcing research to increase reproducibility, generalizability, and accuracy. Talk presented at the annual meeting of the Society of Southeastern Social Psychologists, Athens, GA.[https://osf.io/qtr7a/](https://osf.io/qtr7a/)
 
 # Discussion Panels
 
@@ -167,10 +163,16 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 # Teaching Experience
 
 **Instructor**   
+*Université Grenoble Alpes*
+
+- Introduction à la Recherche et Analyse des Données  \hfill Spring 2019
+  - Upper level undergraduate research methods course.
+
+**Instructor**   
 *University of Florida*
 
 - PSY2012 - Introduction to Psychology (x2) \hfill Fall 2014, Summer 2015
-- Class size: 70; Overall evaluation: 4.42/5
+  - Class size: 70; Overall evaluation: 4.42/5
 
 **Teaching Assistant**  
 *University of Florida*
