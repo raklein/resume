@@ -1,5 +1,5 @@
 # RMarkdown CV
-Builds a .pdf CV using R Markdown and LaTex. Easily editable text fields if
+Builds a [.pdf CV (click to view directly)](https://github.com/raklein/resume/blob/master/klein_cv.pdf) using R Markdown and LaTex. Easily editable text fields if
 you know a little R Markdown (next thing to plain text). If you're adventerous, 
 edit cv-latex.tex (LaTeX file) to edit format/structure.
 
