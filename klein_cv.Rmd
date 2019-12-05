@@ -25,8 +25,13 @@ urlcolor: blue
 ---
 
 # Positions
-**Postdoctoral Researcher** \hfill 2018 - Present  
-*Université Grenoble Alpes, Grenoble, France*  
+**Postdoctoral Researcher** \hfill 2019 - Present  
+*Tilburg University, Department of Methodology and Statistics, Tilburg, the Netherlands*  
+
+- Metascience research about bias in the publication process and reproducibility of results. Undergraduate statistics teaching.
+
+**Postdoctoral Researcher** \hfill 2018 - 2019  
+*Université Grenoble Alpes, LIP/PC2S, Grenoble, France*  
 
 - Social psychology research with an emphasis on methods and data science.
 
@@ -43,6 +48,8 @@ urlcolor: blue
 
 # Peer Reviewed Publications
 (\* indicates undergraduate author)
+
+Vergara, R. C., Hernández, C., Jaume-Guazzini, F., Lindenberg, S., **Klein, R. A.**, & IJzerman, H. (2019). Development and Validation of the Social Thermoregulation and Risk Avoidance Questionnaire (STRAQ-1). *International Review of Social Psychology, 32*(1), 18. DOI: http://doi.org/10.5334/irsp.222  
 
 Conway, M. A., O'Shea, B., Redford, L., Pogge, G., **Klein, R. A.**, & Ratliff, K. A. (2019). Can Carelessness Be Captured? Assessing Careless Responding in Attitudes Toward Novel Stimuli. *Social Cognition, 37*(5), 468-498.
 
@@ -134,7 +141,13 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 
 # Research Experience
 
-**Postdoctoral Researcher** \hfill 2018 - Present  
+**Postdoctoral Researcher** \hfill 2019 - Present  
+*Metascience Group, Tilburg University*
+
+- PIs: Dr. Jelte Wicherts, Dr. Marjan Bakker
+- Conducted research on bias in journal reviews and metaverse analysis.
+
+**Postdoctoral Researcher** \hfill 2018 - 2019  
 *Coregulation Lab, Université Grenoble Alpes*
 
 - PI: Dr. Hans IJzerman
@@ -174,7 +187,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *University of Florida*
 
 - PSY2012 - Introduction to Psychology (x2) \hfill Fall 2014, Summer 2015
-  - Class size: 70; Overall evaluation: 4.42/5
+  - Overall evaluation: 4.42/5
 
 **Teaching Assistant**  
 *University of Florida*
@@ -199,7 +212,10 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 # Awards, Honors, Service
 
 - Peer-reviewed for:
+    + *The European Association of Social Psychology*
+    + *Social Cognition*
     + *Collabra: Psychology*
+    + *eLife*
     + *Frontiers in Psychology, Review Editor* \hfill 2017 - 2018
     + *Social Psychological and Personality Science*
     + *Perspectives on Psychological Science*
@@ -218,6 +234,6 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 # Relevant Skills
 
 - **Statistical programs**: R + R Studio, SPSS, JASP
-- **Statistical techniques**: Linear/logistic/multiple regression, correlation, ANOVA, linear mixed models, factor analysis, meta-analysis, machine learning/deep learning (limited), social network analysis (limited)
+- **Statistical techniques**: Linear/logistic/multiple regression, correlation, ANOVA, linear mixed models, factor analysis, meta-analysis, machine learning/deep learning (working knowledge), social network analysis (working knowledge)
 - **Other tools**: Open Science Framework, MS Excel/Word/PowerPoint, Google Sheets/Docs/Forms, Qualtrics Survey Software, Git/GitHub
 - **Languages**: English (native), French (intermediate)
