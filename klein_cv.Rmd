@@ -91,6 +91,8 @@ Speakers: Gregory Webster, **Richard Klein**, Chris Martin.
 
 # Talks
 
+**Klein, R. A.** (2020). Many Labs 4: Conducting replications of mortality salience with and without original author involvement. Talk presented at the Society for Personality and Social Psychology annual conference, New Orleans, Louisiana, USA. [https://osf.io/bgh48/](https://osf.io/bgh48/)
+
 **Klein, R. A.** (2019). An Overview of Workflow Management: Using the Open Science Framework. Workshop presented as part of the Open Science Workshop, Grenoble, France. [https://osf.io/nxem8/](https://osf.io/nxem8/)
 
 **Klein, R. A.** (2019). Welcome to the era of big psychology. Invited workshop presented as part of the Machine Learning: Applications to Clinical and Psychological Research Workshop, Rovereto, Italy. [https://github.com/raklein/presentation-rep-machine-learning-rovereto](https://github.com/raklein/presentation-rep-machine-learning-rovereto)
@@ -171,9 +173,6 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *Social Vision and Interpersonal Perception Lab, Penn State*
 
 - PI: Dr. Reginald Adams
-
-**Intern** \hfill Fall 2010  
-*International Center for the Study of Terrorism, Penn State*
 
 # Teaching Experience
 
