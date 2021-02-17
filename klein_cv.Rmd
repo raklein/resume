@@ -11,7 +11,7 @@ author: Richard Klein
 fontawesome: yes
 email: raklein22@gmail.com
 github: raklein
-twitter: "@raklein3"
+# twitter: "@raklein3"
 phone: "on request"
 web: raklein.me
 updated: no
@@ -49,9 +49,13 @@ urlcolor: blue
 # Peer Reviewed Publications
 (\* indicates undergraduate author)
 
-Vergara, R. C., Hernández, C., Jaume-Guazzini, F., Lindenberg, S., **Klein, R. A.**, & IJzerman, H. (2019). Development and Validation of the Social Thermoregulation and Risk Avoidance Questionnaire (STRAQ-1). *International Review of Social Psychology, 32*(1), 18. DOI: http://doi.org/10.5334/irsp.222  
+Moshontz, H., Ebersole, C. R., Weston, S. J., & **Klein, R. A.** (in press). A Guide for Many Authors: Writing Manuscripts in Large Collaborations. *Social and Personality Psychology Compass*. [https://doi.org/10.31234/osf.io/92xhd](https://doi.org/10.31234/osf.io/92xhd)
 
-Conway, M. A., O'Shea, B., Redford, L., Pogge, G., **Klein, R. A.**, & Ratliff, K. A. (2019). Can Carelessness Be Captured? Assessing Careless Responding in Attitudes Toward Novel Stimuli. *Social Cognition, 37*(5), 468-498.
+Sarda, E., Dujols, O., **Klein, R. A.**, & IJzerman, H. (in press). Validation of the ISP131001 Sensor for Mobile Peripheral Body Temperature Measurement. *International Review of Social Psychology*. [https://doi.org/10.31234/osf.io/ewcpt](https://doi.org/10.31234/osf.io/ewcpt)
+
+Vergara, R. C., Hernández, C., Jaume-Guazzini, F., Lindenberg, S., **Klein, R. A.**, & IJzerman, H. (2019). Development and Validation of the Social Thermoregulation and Risk Avoidance Questionnaire (STRAQ-1). *International Review of Social Psychology, 32*(1), 18. [http://doi.org/10.5334/irsp.222](http://doi.org/10.5334/irsp.222)
+
+Conway, M. A., O'Shea, B., Redford, L., Pogge, G., **Klein, R. A.**, & Ratliff, K. A. (2019). Can Carelessness Be Captured? Assessing Careless Responding in Attitudes Toward Novel Stimuli. *Social Cognition, 37*(5), 468-498. [https://doi.org/10.1521/soco.2019.37.5.468](https://doi.org/10.1521/soco.2019.37.5.468)
 
 **Klein, R. A.**, Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., Alper, S., … Nosek, B. A. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. *Advances in Methods and Practices in Psychological Science, 1*(4), 443–490. [https://doi.org/10.1177/2515245918810225](https://doi.org/10.1177/2515245918810225)
 
@@ -147,7 +151,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *Metascience Group, Tilburg University*
 
 - PIs: Dr. Jelte Wicherts, Dr. Marjan Bakker
-- Conducted research on bias in journal reviews and metaverse analysis.
+- Conducted research on bias in peer review and multiverse analysis.
 
 **Postdoctoral Researcher** \hfill 2018 - 2019  
 *Coregulation Lab, Université Grenoble Alpes*
@@ -159,9 +163,9 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 **Research Coordinator** \hfill 2015 - 2017  
 *Project Implicit, implicit.harvard.edu*
 
-- Director: Dr. Kate Ratliff
-- Deployed and oversaw research projects site-wide.
-- Worked with back-end developers to ensure smooth operation of site.
+- Tested and deployed studies to production for researchers and customers.
+- Monitored running studies site-wide to ensure smooth operation.
+- 90,000+ visitors per month. 
 
 **Researcher** \hfill 2012 - 2017  
 *Attitudes and Social Cognition Lab, University of Florida*
@@ -211,16 +215,22 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 # Awards, Honors, Service
 
 - Peer-reviewed for:
-    + *The European Association of Social Psychology*
-    + *Social Cognition*
+    + *Advances in Methods and Practices in Psychological Science*
+    + *American Journal of Political Science*
     + *Collabra: Psychology*
     + *eLife*
     + *Frontiers in Psychology, Review Editor* \hfill 2017 - 2018
-    + *Social Psychological and Personality Science*
-    + *Perspectives on Psychological Science*
     + *Journal of Social Psychology*
     + *PLOS ONE*
-    + *American Journal of Political Science*
+    + *Social Cognition*
+    + *Social Psychological and Personality Science*
+    + *Templeton World Charity Foundation*
+    + *The Spanish Journal of Psychology*
+    + *The European Association of Social Psychology*
+    + *Perspectives on Psychological Science*
+    + *Psychological Science*
+- Commendation from the Society for the Improvement of Psychological Science \hfill 2020
+- Served on SPSP Task Force implementing Transparency and Openness Promotion guidelines \hfill 2020
 -	Gerber Social Psychology Outstanding Research Award ($1,000) \hfill 2016
 -	Incubator Grant, Center for Open Science ($13,500) \hfill 2015
 -	Travel Award, UF Department of Psychology ($500) \hfill 2015
