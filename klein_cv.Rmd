@@ -28,7 +28,7 @@ urlcolor: blue
 **Postdoctoral Researcher** \hfill 2019 - Present  
 *Tilburg University, Department of Methodology and Statistics, Tilburg, the Netherlands*  
 
-- Metascience research about bias in the publication process and reproducibility of results. Undergraduate statistics teaching.
+- Metascience research about bias in the publication process and reproducibility of results. 
 
 **Postdoctoral Researcher** \hfill 2018 - 2019  
 *Université Grenoble Alpes, LIP/PC2S, Grenoble, France*  
@@ -49,9 +49,9 @@ urlcolor: blue
 # Peer Reviewed Publications
 (\* indicates undergraduate author)
 
-Moshontz, H., Ebersole, C. R., Weston, S. J., & **Klein, R. A.** (in press). A Guide for Many Authors: Writing Manuscripts in Large Collaborations. *Social and Personality Psychology Compass*. [https://doi.org/10.31234/osf.io/92xhd](https://doi.org/10.31234/osf.io/92xhd)
-
 Sarda, E., Dujols, O., **Klein, R. A.**, & IJzerman, H. (in press). Validation of the ISP131001 Sensor for Mobile Peripheral Body Temperature Measurement. *International Review of Social Psychology*. [https://doi.org/10.31234/osf.io/ewcpt](https://doi.org/10.31234/osf.io/ewcpt)
+
+Moshontz, H., Ebersole, C. R., Weston, S. J., & **Klein, R. A.** (2021). A Guide for Many Authors: Writing Manuscripts in Large Collaborations. *Social and Personality Psychology Compass*. [https://doi.org/10.1111/spc3.12590](https://doi.org/10.1111/spc3.12590)
 
 Vergara, R. C., Hernández, C., Jaume-Guazzini, F., Lindenberg, S., **Klein, R. A.**, & IJzerman, H. (2019). Development and Validation of the Social Thermoregulation and Risk Avoidance Questionnaire (STRAQ-1). *International Review of Social Psychology, 32*(1), 18. [http://doi.org/10.5334/irsp.222](http://doi.org/10.5334/irsp.222)
 
