@@ -13,7 +13,7 @@ email: raklein22@gmail.com
 github: raklein
 # twitter: "@raklein3"
 phone: "on request"
-web: raklein.me
+web: www.raklein.me
 updated: no
 
 keywords: R Markdown, academic CV, template
@@ -49,7 +49,15 @@ urlcolor: blue
 # Peer Reviewed Publications
 (\* indicates undergraduate author)
 
-Sarda, E., Dujols, O., **Klein, R. A.**, & IJzerman, H. (in press). Validation of the ISP131001 Sensor for Mobile Peripheral Body Temperature Measurement. *International Review of Social Psychology*. [https://doi.org/10.31234/osf.io/ewcpt](https://doi.org/10.31234/osf.io/ewcpt)
+Wicherts, J., **Klein, R. A.**, Swaans, S., Maassen, E., Stoevenbelt, A., Hartgerink, C., Peeters, V., de Jong, M., & Ruffer, F. (in press). How to Protect Privacy in Open Data. *Nature Human Behaviour*.
+
+Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A. J., ... **Klein, R. A.** ... & Nilsonne, G. (2022). A many-analysts approach to the relation between religiosity and well-being. *Religion, Brain & Behavior*. DOI: [https://doi.org/10.1080/2153599X.2022.2070255](https://doi.org/10.1080/2153599X.2022.2070255)
+
+Krypotos, A. M., **Klein, R. A.**, & Jong, J. (2022). Resolving religious debates through a multiverse approach. *Religion, Brain & Behavior*. DOI: [https://doi.org/10.1080/2153599X.2022.2070261](https://doi.org/10.1080/2153599X.2022.2070261)
+
+**Klein, R. A.**, Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., Hilgard, J., ... & Ratliff, K. A. (2022). Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement. *Collabra: Psychology, 8*(1), 35271. DOI: [https://doi.org/10.1525/collabra.35271](https://doi.org/10.1525/collabra.35271)
+
+Sarda, E., **Klein, R. A.**, Dujols, O., & IJzerman, H. (2021). Validation of the ISP131001 Sensor for Mobile Peripheral Body Temperature Measurement. *International Review of Social Psychology, 34*(1), 12. DOI: [http://doi.org/10.5334/irsp.409](http://doi.org/10.5334/irsp.409)
 
 Moshontz, H., Ebersole, C. R., Weston, S. J., & **Klein, R. A.** (2021). A Guide for Many Authors: Writing Manuscripts in Large Collaborations. *Social and Personality Psychology Compass*. [https://doi.org/10.1111/spc3.12590](https://doi.org/10.1111/spc3.12590)
 
@@ -94,6 +102,8 @@ Speakers: Michèle Nuijten, Fieke Wagemans, Marco Perugini, **Richard Klein**, K
 Speakers: Gregory Webster, **Richard Klein**, Chris Martin.
 
 # Talks
+
+**Klein, R. A.** (2021). Privacy Risks in Open Datasets. Talk presented at the Metascience 2021 conference, organized online. Slides: [https://osf.io/b564v/](https://osf.io/b564v/) Video: [https://youtu.be/w40J0-Z6epU](https://youtu.be/w40J0-Z6epU)
 
 **Klein, R. A.** (2020). Many Labs 4: Conducting replications of mortality salience with and without original author involvement. Talk presented at the Society for Personality and Social Psychology annual conference, New Orleans, Louisiana, USA. [https://osf.io/bgh48/](https://osf.io/bgh48/)
 
@@ -229,6 +239,8 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
     + *The European Association of Social Psychology*
     + *Perspectives on Psychological Science*
     + *Psychological Science*
+    + *The International Review of Social Psychology, Editorial Board* \hfill 2019 - present
+- Open Science Fund Grant, Dutch Research Council (€50,000)
 - Commendation from the Society for the Improvement of Psychological Science \hfill 2020
 - Served on SPSP Task Force implementing Transparency and Openness Promotion guidelines \hfill 2020
 -	Gerber Social Psychology Outstanding Research Award ($1,000) \hfill 2016
