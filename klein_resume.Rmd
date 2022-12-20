@@ -1,0 +1,87 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex # I installed https://yihui.name/tinytex/ instead of the recommended defaults
+    template: cv-latex.tex
+geometry: margin=.7in
+
+title: "Resume"
+author: Richard Klein, PhD
+
+fontawesome: yes
+email: raklein22@gmail.com
+github: raklein
+# twitter: "@raklein3"
+phone: "+33 7 72 30 38 88"
+web: www.raklein.me
+updated: no
+
+keywords: R Markdown, resume, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Education
+
+**PhD, Social Psychology** (2012-2017)  
+*University of Florida, Gainesville, FL*  
+
+- Led large team projects coordinating a total of 274 researchers from 33 countries to conduct 42 studies involving 23,199 participants across 16 languages. 
+- Communicated findings through talks and publications to varied audiences, including two of the top 1% most cited Psychology papers from 2014 and 2018. 
+
+**MS, Social Psychology** (2012-2014)  
+*University of Florida, Gainesville, FL*  
+
+**BS, Psychology; BS, Finance** (2007-2011)  
+*Pennsylvania State University, University Park, PA*
+
+# Professional experience
+**Postdoctoral Researcher** (December 2019-November 2022)  
+*Tilburg University*  
+
+- Led initiative to identify and classify privacy risks in 2,000 datasets, and then use these insights to develop an R package to automatically detect common violations. 
+- Reproduced results from 100+ projects using varied statistical techniques, and established a protocol for researchers to explore alternative analysis strategies through multiverse analysis. 
+
+**Postdoctoral Researcher** (January 2018-November 2019)  
+*Université Grenoble Alpes*  
+
+- Conducted research on romantic relationships using surveys in tandem with highly sensitive body-worn physiological sensors. 
+- Developed complex analysis scripts to merge data from various sources and perform analysis in R.
+- Taught undergraduate course Introduction to Research and Data Analysis 
+
+**Research Coordinator** (2015-2017)  
+*Project Implicit, implicit.harvard.edu*
+
+- Quality tested, deployed, and monitored studies for site with 90,000+ visitors per month. 
+
+**Instructor** (Fall 2014, Summer 2015)  
+*University of Florida* - Introduction to Psychology  
+
+- Excellent teaching evaluations (4.42/5)
+
+**Lab Manager and Teaching Assistant** (2011-2012)  
+*Pennsylvania State University* 
+
+# Skills
+\begin{adjustwidth}{50pt}{50pt}
+\centering Experimental design | Research methods | A/B testing | Statistical data analysis | Interpreting research results | Social psychology | R | Rmarkdown | Tidyverse | SPSS | Qualtrics | GitHub | English (native) | French (intermediate)
+\end{adjustwidth}
+
+<!-- # Skills -->
+<!-- \vspace{-\topsep} -->
+<!-- \begin{multicols}{2} -->
+<!-- \begin{itemize} -->
+<!--   \setlength{\parskip}{0pt} -->
+<!--   \setlength{\itemsep}{0pt plus 1pt} -->
+<!--         \item Research methods and experimental design -->
+<!--         \item Statistical data analysis -->
+<!--         \item Interpreting research results -->
+<!--         \item Social psychology -->
+<!--         \item R, Rmarkdown, tidyverse, SPSS, Qualtrics, GitHub -->
+<!--         \item Languages: English (native), French (intermediate) -->
+<!-- \end{itemize} -->
+<!-- \end{multicols} -->
+<!-- \vspace{-\topsep} -->

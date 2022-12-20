@@ -25,12 +25,12 @@ urlcolor: blue
 ---
 
 # Positions
-**Postdoctoral Researcher** \hfill 2019 - Present  
+**Postdoctoral Researcher** \hfill Dec 2019 - Nov 2022  
 *Tilburg University, Department of Methodology and Statistics, Tilburg, the Netherlands*  
 
 - Metascience research about bias in the publication process and reproducibility of results. 
 
-**Postdoctoral Researcher** \hfill 2018 - 2019  
+**Postdoctoral Researcher** \hfill Jan 2018 - Nov 2019  
 *Université Grenoble Alpes, LIP/PC2S, Grenoble, France*  
 
 - Social psychology research with an emphasis on methods and data science.
@@ -49,7 +49,9 @@ urlcolor: blue
 # Peer Reviewed Publications
 (\* indicates undergraduate author)
 
-Wicherts, J., **Klein, R. A.**, Swaans, S., Maassen, E., Stoevenbelt, A., Hartgerink, C., Peeters, V., de Jong, M., & Ruffer, F. (in press). How to Protect Privacy in Open Data. *Nature Human Behaviour*.
+Wicherts, J., **Klein, R. A.**, Swaans, S., Maassen, E., Stoevenbelt, A., ... & Ruffer, F. (2022). How to Protect Privacy in Open Data. *Nature Human Behaviour*. DOI: [https://doi.org/10.1038/s41562-022-01481-w](https://doi.org/10.1038/s41562-022-01481-w)
+
+Kakinohana, R. K., **Klein, R. A.**, & Pilati, R. (2022). Does anchoring vary across cultures? Expanding the Many Labs analysis. *European Journal of Social Psychology*. DOI: [https://doi.org/10.1002/ejsp.2924](https://doi.org/10.1002/ejsp.2924)
 
 Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A. J., ... **Klein, R. A.** ... & Nilsonne, G. (2022). A many-analysts approach to the relation between religiosity and well-being. *Religion, Brain & Behavior*. DOI: [https://doi.org/10.1080/2153599X.2022.2070255](https://doi.org/10.1080/2153599X.2022.2070255)
 
