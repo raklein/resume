@@ -25,12 +25,12 @@ urlcolor: blue
 ---
 
 # Positions
-**Postdoctoral Researcher** \hfill Dec 2019 - Nov 2022  
+**Postdoctoral Researcher** \hfill December 2019-November 2022  
 *Tilburg University, Department of Methodology and Statistics, Tilburg, the Netherlands*  
 
 - Metascience research about bias in the publication process and reproducibility of results. 
 
-**Postdoctoral Researcher** \hfill Jan 2018 - Nov 2019  
+**Postdoctoral Researcher** \hfill January 2018-November 2019  
 *Université Grenoble Alpes, LIP/PC2S, Grenoble, France*  
 
 - Social psychology research with an emphasis on methods and data science.

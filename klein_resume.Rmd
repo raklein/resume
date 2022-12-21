@@ -39,7 +39,7 @@ urlcolor: blue
 *Pennsylvania State University, University Park, PA*
 
 # Professional experience
-**Postdoctoral Researcher** (December 2019-December 2022)  
+**Postdoctoral Researcher** (December 2019-November 2022)  
 *Tilburg University*  
 
 - Led initiative to identify and classify privacy risks in 2,000 datasets, and then use these insights to develop an R package to automatically detect common violations. 
