@@ -26,16 +26,16 @@ urlcolor: blue
 
 # Education
 
-**PhD, Social Psychology** (2012-2017)  
+**PhD, Social Psychology** (August 2012-August 2017)  
 *University of Florida, Gainesville, FL*  
 
 - Led large team projects coordinating a total of 274 researchers from 33 countries to conduct 42 studies involving 23,199 participants across 16 languages. 
 - Communicated findings through talks and publications to varied audiences, including two of the top 1% most cited Psychology papers from 2014 and 2018. 
 
-**MS, Social Psychology** (2012-2014)  
+**MS, Social Psychology** (August 2012-May 2014)  
 *University of Florida, Gainesville, FL*  
 
-**BS, Psychology; BS, Finance** (2007-2011)  
+**BS, Psychology; BS, Finance** (May 2007-May 2011)  
 *Pennsylvania State University, University Park, PA*
 
 # Professional experience
@@ -61,6 +61,10 @@ urlcolor: blue
 *University of Florida* - Introduction to Psychology  
 
 - Excellent teaching evaluations (4.42/5)
+
+**Graduate Teaching Assistant** (Fall 2013-Summer 2014; Fall 2016-Spring 2017)  
+<!-- Specifically: Fall 2013-Summer 2014; Spring 2015; Fall 2016-Spring 2017 -->
+*University of Florida* 
 
 **Lab Manager and Teaching Assistant** (2011-2012)  
 *Pennsylvania State University* 
