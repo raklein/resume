@@ -1,78 +1,79 @@
 ---
-output: 
-  pdf_document:
-    latex_engine: pdflatex # I installed https://yihui.name/tinytex/ instead of the recommended defaults
-    template: cv-latex.tex
-geometry: margin=.7in
-
 title: "Resume"
-author: Richard Klein, PhD
-
+author: "Richard Klein, PhD"
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: "cv-latex.tex"
+  word_document: default
+geometry: margin=.7in
 fontawesome: yes
 email: raklein22@gmail.com
 github: raklein
-# twitter: "@raklein3"
-phone: "+33 7 72 30 38 88"
 web: www.raklein.me
 updated: no
-
 keywords: R Markdown, resume, template
-
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
 
-# Education
+# Experience
+**Researcher** (Dec 2019 - Nov 2022)  
+*Tilburg University - Methodology and Statistics*  
 
-**PhD, Social Psychology** (August 2012-August 2017)  
-*University of Florida, Gainesville, FL*  
+- Led team assessing risk in 2,000+ research datasets, establishing that 5-10% had privacy concerns. 
+- Secured €50,000 grant to collaborate with industry partner and develop [DataCheck](https://libscie.github.io/datacheck-website/), an R package and web app that detects and prevents 14 privacy risks with over 98% accuracy. 
+- Used varied statistical, debugging, and visualization techniques to analyze over 100 projects in R and verify data quality.
+- Created protocols used by data analysts to identify alternative analytic approaches to datasets.  
 
-- Led multiple large team projects coordinating a total of 274 researchers across 33 countries. <!-- 16 languages -->
-- Designed and conducted 42 psychological experiments involving 23,199 participants. 
-- Delivered high-impact results with 16+ publications, 3,200+ citations, and two of the most cited Psychology papers from [2014](https://doi.org/10.1027/1864-9335/a000178) and [2018](https://doi.org/10.1177/2515245918810225). 
-
-**MS, Social Psychology** (August 2012-May 2014)  
-*University of Florida, Gainesville, FL*  
-
-**BS, Psychology; BS, Finance** (May 2007-May 2011)  
-*Pennsylvania State University, University Park, PA*
-
-# Professional experience
-**Postdoctoral Researcher** (December 2019-November 2022)  
-*Tilburg University*  
-
-- Led team assessing privacy risks in 2,000+ research datasets to develop recommendations to decrease risks to research participants. 
-- Secured €50,000 grant to develop [DataCheck](https://libscie.github.io/datacheck-website/), a tool to automatically detect privacy risks. 
-- Used varied statistical techniques to reanalyze 100+ projects, and created a workflow for researchers to identify alternative analyses. 
-
-**Postdoctoral Researcher** (January 2018-November 2019)  
+**Researcher** (Jan 2018 - Nov 2019)  
 *Université Grenoble Alpes*  
 
-- Conducted research on romantic relationships using surveys and sensitive physiological sensors. 
-- Developed complex analysis scripts to merge data from various sources and perform analysis in R.
-- Taught Introduction to Research and Data Analysis 
+- Created lab manual and established workflows to facilitate reproducible data analysis.
+- Conducted research on romantic relationships using surveys and physiological sensors paired with advanced analytic techniques. 
+- Queried complex data sources and extracted, combined, and restructured data into spreadsheets suitable for common data analytics tools. 
+<!-- - Organized the [Tech and Relationships conference](https://www.easp.eu/news/itm/-822.html) to stimulate industry/academia collaboration. -->
+- Taught Introduction to Research and Data Analysis.
 
-**Research Coordinator** (2015-2017)  
+**Research Coordinator** (Sept 2013 - May 2017)  
 *Project Implicit, implicit.harvard.edu*
 
-- Responsible for improving user experience in research studies to prevent attrition. 
 - Quality tested, deployed, and monitored research studies for site with 90,000+ visitors per month. 
+<!-- - Improved user experience and reduced attrition.  -->
 
-**Instructor / Graduate TA** (2013-2017)  
+**Instructor / Graduate TA** (Aug 2013 - May 2017)  
 *University of Florida* 
 <!-- Specifically, TA for: Fall 2013-Summer 2014; Spring 2015; Fall 2016-Spring 2017, Instructor for Fall 2014, Summer 2015 -->
 
-- Taught Introduction to Psychology (excellent teaching evaluations: 4.42/5)
-- Provided educational support for four varied courses in Psychology and research methods. 
+- Taught Introduction to Psychology and received excellent teaching evaluations (4.42/5).
+- Assisted with grading and organization in various courses in Psychology and Research Methods. 
 
-**Lab Manager and Undergraduate Teaching Assistant** (2011-2012)  
-*Pennsylvania State University* 
+<!-- **Lab Manager and Undergraduate Teaching Assistant** (2011-2012)   -->
+<!-- *Pennsylvania State University*  -->
+
+<!-- - Provided educational support to 1,500+ students in various courses. -->
+
+# Education
+
+**PhD, Social Psychology** (Aug 2012 - Aug 2017)  
+*University of Florida, Gainesville, FL*  
+
+- Led multiple large-scale projects coordinating 274 researchers across 33 countries. <!-- 16 languages -->
+- Designed, executed, and analyzed over 42 experiments in psychology and behavioral economics involving 23,199 participants. 
+- Communicated high-impact results to technical and non-technical audiences through 16 publications with 3,407 citations and dozens of talks, posters, infographics, and workshops.
+<!-- and two of the most cited psychology papers from [2014](https://doi.org/10.1027/1864-9335/a000178) and [2018](https://doi.org/10.1177/2515245918810225). -->
+
+**MS, Social Psychology** (Aug 2012 - May 2014)  
+*University of Florida, Gainesville, FL*  
+
+**BS, Psychology; BS, Finance** (May 2007 - May 2011)  
+*Pennsylvania State University, University Park, PA*
 
 # Skills
 \begin{adjustwidth}{50pt}{50pt}
-\centering Experimental design | Research methods | A/B testing | Statistical data analysis | Interpreting research results | Social psychology | R | Rmarkdown | Tidyverse | SPSS | Qualtrics | GitHub | English (native) | French (intermediate)
+\centering Experimental design | Statistical data analysis | Data visualization | MS Office Suite| R | Rmarkdown | SPSS | Qualtrics | SQL | Machine learning (hobby)
 \end{adjustwidth}
 
 <!-- # Skills -->
