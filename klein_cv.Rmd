@@ -25,7 +25,7 @@ urlcolor: blue
 ---
 
 # Positions
-**Postdoctoral Researcher** \hfill December 2019-November 2022  
+**Postdoctoral Researcher** \hfill December 2019-Present  
 *Tilburg University, Department of Methodology and Statistics, Tilburg, the Netherlands*  
 
 - Metascience research about bias in the publication process and reproducibility of results. 

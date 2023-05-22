@@ -20,7 +20,7 @@ urlcolor: blue
 ---
 
 # Experience
-**Researcher** (Dec 2019 - Nov 2022)  
+**Researcher** (Dec 2019 - Present)  
 *Tilburg University - Methodology and Statistics*  
 
 - Led team assessing risk in 2,000+ research datasets, establishing that 5-10% had privacy concerns. 
