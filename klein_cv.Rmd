@@ -163,27 +163,38 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *Metascience Group, Tilburg University*
 
 - PIs: Dr. Jelte Wicherts, Dr. Marjan Bakker
-- Conducted research on bias in peer review and multiverse analysis.
+-	Led a team of up to 22 members in identifying flaws in research processes and methods to ensure the accuracy and value of outputs and conclusions
+-	Assessed privacy risks in 2K+ research datasets through analysis and evaluation to determine that 5-10% contained addressable privacy concerns
+-	Delivered essential content matter to secure a €50,000 grant to develop and implement an R package and web application to automatically detect and prevent privacy risks
+-	Created analysis protocols for multi-verse analysis of 100+ projects utilizing 1,000+ simultaneous analysis pipelines to create a more robust understanding of the data while reducing bias
+
 
 **Postdoctoral Researcher** \hfill 2018 - 2019  
 *Coregulation Lab, Université Grenoble Alpes*
 
 - PI: Dr. Hans IJzerman
-- Established lab workflow for reproducibility.
-- Designed, conducted, and published research.
+-	Conducted research on romantic couples to discover reciprocal trends in behavior predicting relationship satisfaction by employing surveys and physiological sensors paired with linear mixed effects models
+-	Verified research methods and data throughout the lab group to bolster the value of published insights and outputs
+-	Provided instruction to senior-level bachelor students in Introduction to Research and Data Analysis and master-level students on The Psychology of Performance 
 
-**Research Coordinator** \hfill 2015 - 2017  
+
+**Research Coordinator** \hfill 2013 - 2017  
 *Project Implicit, implicit.harvard.edu*
 
-- Tested and deployed studies to production for researchers and customers.
-- Monitored running studies site-wide to ensure smooth operation.
-- 90,000+ visitors per month. 
+-	Strengthened overall performance by monitoring data quality, testing research tools, and debugging code across a site generating 90k visitors monthly 
+-	Increased interactive user experience metrics and reduced attrition by up to 30% through innovative site changes and process improvements
+-	Collaborated with developers to implement functional site changes based on user feedback and content performance to boost validity of study results
+-	Liaised between development team, project managers, and leadership to communicate needs, capabilities, and feasibility of proposed projects or site changes resulting in greater clarity and understanding across groups
+
 
 **Researcher** \hfill 2012 - 2017  
 *Attitudes and Social Cognition Lab, University of Florida*
 
 - PI: Dr. Kate Ratliff
-- Designed, conducted, and published research.
+-	Oversaw multiple large-scale projects by coordinating 270+ researchers across 33 countries 
+-	Developed an innovative multi-lab research strategy testing the effectiveness of insights across international contexts by assessing 40+ foundational psychological theories
+-	Designed, executed, and analyzed over 60 psychological experiments driving data from over 23k participants
+
 
 **Undergraduate Research Assistant** \hfill 2011 - 2012  
 *Social Vision and Interpersonal Perception Lab, Penn State*
@@ -257,6 +268,6 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 # Relevant Skills
 
 - **Statistical programs**: R/R Studio/RMarkdown, SPSS, JASP
-- **Statistical techniques**: Linear/logistic/multiple regression, correlation, ANOVA, linear mixed models, factor analysis, meta-analysis, machine learning/deep learning (working knowledge), social network analysis (working knowledge)
-- **Other tools**: Open Science Framework, MS Excel/Word/PowerPoint, Google Sheets/Docs/Forms, Qualtrics Survey Software, Git/GitHub
+- **Statistical techniques**: Linear/logistic/multiple regression, correlation, ANOVA, linear mixed models, factor analysis, meta-analysis, machine learning/deep learning
+- **Other tools**: Open Science Framework, MS Excel/Word/PowerPoint, Google Sheets/Docs/Forms, Qualtrics Survey Software, Git/GitHub, SQL
 - **Languages**: English (native), French (intermediate)

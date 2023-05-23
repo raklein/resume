@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  23 MAY 2023 06:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.23)  23 MAY 2023 06:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -544,15 +544,15 @@ Package rerunfilecheck Info: File `klein_cv.out' has not changed.
 (rerunfilecheck)             Checksum: CD99AE9DFE824DC7F52896E320C612D7;1774.
  ) 
 Here is how much of TeX's memory you used:
- 14751 strings out of 477989
- 232696 string characters out of 5837971
+ 14771 strings out of 477989
+ 232871 string characters out of 5837971
  1868340 words of memory out of 5000000
  34327 multiletter control sequences out of 15000+600000
- 557333 words of font info for 348 fonts, out of 8000000 for 9000
+ 558359 words of font info for 364 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 63i,12n,67p,1197b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,12n,67p,1197b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/Users/rick/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/rick/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on klein_cv.pdf (6 pages, 129641 bytes).
+Output written on klein_cv.pdf (6 pages, 131662 bytes).
 PDF statistics:
  205 PDF objects out of 1000 (max. 8388607)
  171 compressed objects within 2 object streams
