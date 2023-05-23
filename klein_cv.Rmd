@@ -169,8 +169,8 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *Coregulation Lab, Université Grenoble Alpes*
 
 - PI: Dr. Hans IJzerman
-- Established lab workflow for reproducibility
-- Designed, conducted, and published research
+- Established lab workflow for reproducibility.
+- Designed, conducted, and published research.
 
 **Research Coordinator** \hfill 2015 - 2017  
 *Project Implicit, implicit.harvard.edu*
@@ -183,7 +183,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 *Attitudes and Social Cognition Lab, University of Florida*
 
 - PI: Dr. Kate Ratliff
-- Designed, conducted, and published research
+- Designed, conducted, and published research.
 
 **Undergraduate Research Assistant** \hfill 2011 - 2012  
 *Social Vision and Interpersonal Perception Lab, Penn State*
@@ -242,7 +242,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
     + *Perspectives on Psychological Science*
     + *Psychological Science*
     + *The International Review of Social Psychology, Editorial Board* \hfill 2019 - present
-- Open Science Fund Grant, Dutch Research Council (€50,000)
+- Open Science Fund Grant, Dutch Research Council (€50,000) \hfill 2021
 - Commendation from the Society for the Improvement of Psychological Science \hfill 2020
 - Served on SPSP Task Force implementing Transparency and Openness Promotion guidelines \hfill 2020
 -	Gerber Social Psychology Outstanding Research Award ($1,000) \hfill 2016
@@ -256,7 +256,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 
 # Relevant Skills
 
-- **Statistical programs**: R + R Studio, SPSS, JASP
+- **Statistical programs**: R/R Studio/RMarkdown, SPSS, JASP
 - **Statistical techniques**: Linear/logistic/multiple regression, correlation, ANOVA, linear mixed models, factor analysis, meta-analysis, machine learning/deep learning (working knowledge), social network analysis (working knowledge)
 - **Other tools**: Open Science Framework, MS Excel/Word/PowerPoint, Google Sheets/Docs/Forms, Qualtrics Survey Software, Git/GitHub
 - **Languages**: English (native), French (intermediate)
