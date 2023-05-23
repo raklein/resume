@@ -28,12 +28,12 @@ urlcolor: blue
 **Postdoctoral Researcher** \hfill December 2019-Present  
 *Tilburg University, Department of Methodology and Statistics, Tilburg, the Netherlands*  
 
-- Metascience research about bias in the publication process and reproducibility of results. 
+- Metascience research about bias in the publication process and reproducibility of results 
 
 **Postdoctoral Researcher** \hfill January 2018-November 2019  
 *Université Grenoble Alpes, LIP/PC2S, Grenoble, France*  
 
-- Social psychology research with an emphasis on methods and data science.
+- Social psychology research with an emphasis on methods and data science
 
 # Education
 
@@ -231,9 +231,10 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 -	PSYCH243 – Introduction To Well-Being And Positive Psychology (x2) \hfill Fall 2011, Spring 2012
 - PSYCH100 – Introductory Psychology (x4) \hfill Fall 2011
 
-# Supervised Undergraduate Theses
+# Supervised Theses
 
-- Donovan Ellis, University of Florida, awarded Highest Distinction \hfill 2015
+- Olivier Dujols, Doctoral Dissertation, Université Grenoble Alpes \hfill 2023 (expected)
+- Donovan Ellis, Undergraduate Thesis, University of Florida, awarded Highest Distinction \hfill 2015
 
 # Awards, Honors, Service
 
