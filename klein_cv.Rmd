@@ -25,7 +25,7 @@ urlcolor: blue
 ---
 
 # Positions
-**Clinical Data Scientist** \hfill 2019-2023  
+**Clinical Data Scientist** \hfill 2023-Present  
 *Office of New Drugs, Food and Drug Administration, Silver Spring, Maryland*  
 
 - Develop Safety Data Review Plans for New Drug Applications and analyze data from clinical trials for safety signals prior to drug approval
