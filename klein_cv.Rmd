@@ -25,25 +25,30 @@ urlcolor: blue
 ---
 
 # Positions
-**Postdoctoral Researcher** \hfill December 2019-Present  
+**Clinical Data Scientist** \hfill 2019-2023  
+*Office of New Drugs, Food and Drug Administration, Silver Spring, Maryland*  
+
+- Develop Safety Data Review Plans for New Drug Applications and analyze data from clinical trials for safety signals prior to drug approval
+
+**Researcher** \hfill 2019-2023  
 *Tilburg University, Department of Methodology and Statistics, Tilburg, the Netherlands*  
 
 - Metascience research about bias in the publication process and reproducibility of results 
 
-**Postdoctoral Researcher** \hfill January 2018-November 2019  
+**Postdoctoral Researcher** \hfill 2018-2019  
 *Université Grenoble Alpes, LIP/PC2S, Grenoble, France*  
 
 - Social psychology research with an emphasis on methods and data science
 
 # Education
 
-**Ph.D. in Psychology** \hfill 2017  
+**Ph.D. in Psychology** \hfill Aug 2017  
 *University of Florida, Gainesville, FL*
 
-**M.S. in Psychology** \hfill 2014  
+**M.S. in Psychology** \hfill May 2014  
 *University of Florida, Gainesville, FL*
 
-**BS in Psychology, BS in Finance** \hfill 2011  
+**BS in Psychology, BS in Finance** \hfill May 2011  
 *Pennsylvania State University, University Park, PA*
 
 # Peer Reviewed Publications
@@ -159,7 +164,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
 
 # Research Experience
 
-**Postdoctoral Researcher** \hfill 2019 - Present  
+**Postdoctoral Researcher** \hfill 2019 - 2023  
 *Metascience Group, Tilburg University*
 
 - PIs: Dr. Jelte Wicherts, Dr. Marjan Bakker
@@ -253,7 +258,7 @@ Collisson, B. & **Klein, R. A.** (2012). *Personality correlates of social infer
     + *The European Association of Social Psychology*
     + *Perspectives on Psychological Science*
     + *Psychological Science*
-    + *The International Review of Social Psychology, Editorial Board* \hfill 2019 - present
+    + *The International Review of Social Psychology, Editorial Board* \hfill 2019 - 2020
 - Open Science Fund Grant, Dutch Research Council (€50,000) \hfill 2021
 - Commendation from the Society for the Improvement of Psychological Science \hfill 2020
 - Served on SPSP Task Force implementing Transparency and Openness Promotion guidelines \hfill 2020
